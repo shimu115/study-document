@@ -6,7 +6,9 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css"> -->
+  <link rel="stylesheet" media="(prefers-color-scheme: light)" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
+<link rel="stylesheet" media="(prefers-color-scheme: dark)" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
 </head>
 <body>
   <div id="app">加载中...</div>
@@ -46,13 +48,13 @@
       formatUpdated: '{MM}/{DD} {HH}:{mm}',
       externalLinkTarget: '_blank',
       //logo: 'https://cdn.jsdelivr.net/gh/arenxiaolanz/picodemo/img/faviconyellow.png',
-      repo: '',
-      // loadNavbar: true,
+      repo: 'https://github.com/shimu115/StudyDocument',    // 仓库地址，点击右上角的Github章鱼猫头像会跳转到此地址
+      loadNavbar: true,
       loadSidebar: true,
       maxLevel: 2,
       subMaxLevel: 4,
       mergeNvabar: true,
-      // coverpage: true,
+      coverpage: true,
       // 完整配置参数
       search: {
         maxAge: 86400000, // 过期时间，单位毫秒，默认一天
