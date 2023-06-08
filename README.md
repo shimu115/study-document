@@ -4,29 +4,29 @@
 
 > [Linux](linux/Linux.md) 
 >
-> > [Linux概述](Linux/Linux?id=linux概述) 
+> > [Linux概述](linux/Linux?id=linux概述) 
 > >
-> > [Linux目录结构](Linux/Linux?id=linux目录结构) 
+> > [Linux目录结构](linux/Linux?id=linux目录结构) 
 > >
-> > [Linux命令入门](Linux/Linux?id=linux命令入门) 
+> > [Linux命令入门](linux/Linux?id=linux命令入门) 
 > >
-> > > [1. Linux命令基础](Linux/Linux?id=_1-linux命令基础) 
+> > > [1. Linux命令基础](linux/Linux?id=_1-linux命令基础) 
 > > >
-> > >  [2. ls命令入门](Linux/Linux?id=_2-ls命令入门) 
+> > >  [2. ls命令入门](linux/Linux?id=_2-ls命令入门) 
 > > >
-> > > [3. ls命令的参数和选项](Linux/Linux?id=_3-ls命令的参数和选项) 
+> > > [3. ls命令的参数和选项](linux/Linux?id=_3-ls命令的参数和选项) 
 > >
-> > [目录切换相关命令（cd/pwd）]( Linux/Linux?id=目录切换相关命令（cdpwd）) 
+> > [目录切换相关命令（cd/pwd）]( linux/Linux?id=目录切换相关命令（cdpwd）) 
 > >
-> > > [1. 掌握cd切换工作目录命令](Linux/Linux?id=_1-掌握cd切换工作目录命令) 
+> > > [1. 掌握cd切换工作目录命令](linux/Linux?id=_1-掌握cd切换工作目录命令) 
 > > >
-> > > [2. pwd查看当前工作目录](Linux/Linux?id=_2-pwd查看当前工作目录) 
+> > > [2. pwd查看当前工作目录](linux/Linux?id=_2-pwd查看当前工作目录) 
 > >
-> > [创建目录命令(mkdir)](Linux/Linux?id=创建目录命令mkdir) 
+> > [创建目录命令(mkdir)](linux/Linux?id=创建目录命令mkdir) 
 > >
-> > > [掌握通过mkdir命令创建目录（文件夹）](Linux/Linux?id=掌握通过mkdir命令创建目录（文件夹）) 
+> > > [掌握通过mkdir命令创建目录（文件夹）](linux/Linux?id=掌握通过mkdir命令创建目录（文件夹）) 
 > >
-> > [文件操作命令partl(touch、cat、more)](Linux/Linux?id=文件操作命令partltouch、cat、more) 
+> > [文件操作命令partl(touch、cat、more)](linux/Linux?id=文件操作命令partltouch、cat、more) 
 >
 > [RabbitMQ](rabbitmq/RabbitMQ.md) 
 >
