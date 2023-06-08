@@ -1,5 +1,5 @@
 * [学习文档](/?id=目录) 
 
-* [Linux](Linux/Linux.md) 
+* [Linux](linux/Linux.md) 
 
 * [RabbitMQ](rabbitmq/RabbitMQ.md) 
