@@ -2,7 +2,7 @@
 
 [↑ back to  coverpage](/) 
 
-> [Linux](Linux/Linux.md) 
+> [Linux](linux/Linux.md) 
 >
 > > [Linux概述](Linux/Linux?id=linux概述) 
 > >
